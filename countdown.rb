@@ -1,4 +1,4 @@
-def countdown_to_the_midnight(num)
+def countdown(num)
   while num > 0 do 
     puts puts "#{num} SECOND(S)!"
     num -= 1 
